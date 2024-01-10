@@ -1,4 +1,4 @@
-# A Humerical in a Haystack: Detecting False Numerical Columns
+# A Numerical in a Haystack: Detecting False Numerical Columns
 #### Dani Bekman and Gil Or
 This repository is submitted as the final project in the Tabular Data Science course by Dr. Amit Somech at Bar Ilan University.
 
